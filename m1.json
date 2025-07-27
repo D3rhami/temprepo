@@ -1,0 +1,210 @@
+[
+  {
+    "model_identifier": "llama3.1",
+    "namespace": null,
+    "model_name": "llama3.1",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "tools"
+    ],
+    "pulls": 98700000,
+    "tags": 93,
+    "last_updated": "2024-12-18",
+    "last_updated_str": "7 months ago",
+    "url": "https://ollama.com/library/llama3.1",
+    "parameters_list": [
+      "8b",
+      "70b",
+      "405b"
+    ]
+  },
+  {
+    "model_identifier": "deepseek-r1",
+    "namespace": null,
+    "model_name": "deepseek-r1",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "tools",
+      "thinking"
+    ],
+    "pulls": 54800000,
+    "tags": 35,
+    "last_updated": "2025-07-02",
+    "last_updated_str": "3 weeks ago",
+    "url": "https://ollama.com/library/deepseek-r1",
+    "parameters_list": [
+      "1.5b",
+      "7b",
+      "8b",
+      "14b",
+      "32b",
+      "70b",
+      "671b"
+    ]
+  },
+  {
+    "model_identifier": "nomic-embed-text",
+    "namespace": null,
+    "model_name": "nomic-embed-text",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "embedding"
+    ],
+    "pulls": 33900000,
+    "tags": 3,
+    "last_updated": "2024-07-18",
+    "last_updated_str": "1 year ago",
+    "url": "https://ollama.com/library/nomic-embed-text",
+    "parameters_list": []
+  },
+  {
+    "model_identifier": "llama3.2",
+    "namespace": null,
+    "model_name": "llama3.2",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "tools"
+    ],
+    "pulls": 26900000,
+    "tags": 63,
+    "last_updated": "2024-09-22",
+    "last_updated_str": "10 months ago",
+    "url": "https://ollama.com/library/llama3.2",
+    "parameters_list": [
+      "1b",
+      "3b"
+    ]
+  },
+  {
+    "model_identifier": "mistral",
+    "namespace": null,
+    "model_name": "mistral",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "tools"
+    ],
+    "pulls": 17000000,
+    "tags": 84,
+    "last_updated": "2025-07-13",
+    "last_updated_str": "2 weeks ago",
+    "url": "https://ollama.com/library/mistral",
+    "parameters_list": [
+      "7b"
+    ]
+  },
+  {
+    "model_identifier": "qwen2.5",
+    "namespace": null,
+    "model_name": "qwen2.5",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "tools"
+    ],
+    "pulls": 11600000,
+    "tags": 133,
+    "last_updated": "2024-09-18",
+    "last_updated_str": "10 months ago",
+    "url": "https://ollama.com/library/qwen2.5",
+    "parameters_list": [
+      "0.5b",
+      "1.5b",
+      "3b",
+      "7b",
+      "14b",
+      "32b",
+      "72b"
+    ]
+  },
+  {
+    "model_identifier": "gemma3",
+    "namespace": null,
+    "model_name": "gemma3",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "vision"
+    ],
+    "pulls": 9800000,
+    "tags": 21,
+    "last_updated": "2025-04-18",
+    "last_updated_str": "3 months ago",
+    "url": "https://ollama.com/library/gemma3",
+    "parameters_list": [
+      "1b",
+      "4b",
+      "12b",
+      "27b"
+    ]
+  },
+  {
+    "model_identifier": "llama3",
+    "namespace": null,
+    "model_name": "llama3",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [],
+    "pulls": 9800000,
+    "tags": 68,
+    "last_updated": "2024-07-18",
+    "last_updated_str": "1 year ago",
+    "url": "https://ollama.com/library/llama3",
+    "parameters_list": [
+      "8b",
+      "70b"
+    ]
+  },
+  {
+    "model_identifier": "llava",
+    "namespace": null,
+    "model_name": "llava",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [
+      "vision"
+    ],
+    "pulls": 8000000,
+    "tags": 98,
+    "last_updated": "2024-07-18",
+    "last_updated_str": "1 year ago",
+    "url": "https://ollama.com/library/llava",
+    "parameters_list": [
+      "7b",
+      "13b",
+      "34b"
+    ]
+  },
+  {
+    "model_identifier": "gemma2",
+    "namespace": null,
+    "model_name": "gemma2",
+    "model_type": "official",
+    "description": "",
+    "capability": null,
+    "labels": [],
+    "pulls": 6300000,
+    "tags": 94,
+    "last_updated": "2024-08-18",
+    "last_updated_str": "11 months ago",
+    "url": "https://ollama.com/library/gemma2",
+    "parameters_list": [
+      "2b",
+      "9b",
+      "27b"
+    ]
+  }
+]
