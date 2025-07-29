@@ -685,16 +685,17 @@
     "description": "",
     "capability": null,
     "labels": [
-      "tools",
-      "8x7b",
-      "8x22b"
+      "tools"
     ],
     "pulls": 1200000,
     "tags": 70,
     "last_updated": "2024-12-18",
     "last_updated_str": "7 months ago",
     "url": "https://ollama.com/library/mixtral",
-    "parameters_list": []
+    "parameters_list": [
+      "8x7b",
+      "8x22b"
+    ]
   },
   {
     "model_identifier": "starcoder2",
@@ -837,16 +838,16 @@
     "model_type": "official",
     "description": "",
     "capability": null,
-    "labels": [
-      "8x7b",
-      "8x22b"
-    ],
+    "labels": [],
     "pulls": 612400,
     "tags": 70,
     "last_updated": "2024-12-18",
     "last_updated_str": "7 months ago",
     "url": "https://ollama.com/library/dolphin-mixtral",
-    "parameters_list": []
+    "parameters_list": [
+      "8x7b",
+      "8x22b"
+    ]
   },
   {
     "model_identifier": "openthinker",
@@ -875,16 +876,17 @@
     "capability": null,
     "labels": [
       "vision",
-      "tools",
-      "16x17b",
-      "128x17b"
+      "tools"
     ],
     "pulls": 488900,
     "tags": 11,
     "last_updated": "2025-06-18",
     "last_updated_str": "1 month ago",
     "url": "https://ollama.com/library/llama4",
-    "parameters_list": []
+    "parameters_list": [
+      "16x17b",
+      "128x17b"
+    ]
   },
   {
     "model_identifier": "orca-mini",
@@ -935,16 +937,15 @@
     "model_type": "official",
     "description": "",
     "capability": null,
-    "labels": [
-      "8x22b"
-    ],
+    "labels": [],
     "pulls": 386000,
     "tags": 22,
     "last_updated": "2024-07-18",
     "last_updated_str": "1 year ago",
     "url": "https://ollama.com/library/wizardlm2",
     "parameters_list": [
-      "7b"
+      "7b",
+      "8x22b"
     ]
   },
   {
@@ -1994,9 +1995,7 @@
     "last_updated": "2024-07-18",
     "last_updated_str": "1 year ago",
     "url": "https://ollama.com/library/dbrx",
-    "parameters_list": [
-      "132b"
-    ]
+    "parameters_list": []
   },
   {
     "model_identifier": "exaone3.5",
@@ -2532,15 +2531,15 @@
     "model_type": "official",
     "description": "",
     "capability": null,
-    "labels": [
-      "8x7b"
-    ],
+    "labels": [],
     "pulls": 64099,
     "tags": 18,
     "last_updated": "2024-12-18",
     "last_updated_str": "7 months ago",
     "url": "https://ollama.com/library/nous-hermes2-mixtral",
-    "parameters_list": []
+    "parameters_list": [
+      "8x7b"
+    ]
   },
   {
     "model_identifier": "stable-beluga",
@@ -3094,15 +3093,15 @@
     "model_type": "official",
     "description": "",
     "capability": null,
-    "labels": [
-      "8x7b"
-    ],
+    "labels": [],
     "pulls": 27500,
     "tags": 18,
     "last_updated": "2024-07-18",
     "last_updated_str": "1 year ago",
     "url": "https://ollama.com/library/notux",
-    "parameters_list": []
+    "parameters_list": [
+      "8x7b"
+    ]
   },
   {
     "model_identifier": "open-orca-platypus2",
